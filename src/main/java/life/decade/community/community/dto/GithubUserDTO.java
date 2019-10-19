@@ -24,4 +24,9 @@ public class GithubUserDTO {
      */
     private String bio;
 
+    /**
+     * 用户头像
+     */
+    private String avatarUrl;
+
 }

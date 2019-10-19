@@ -23,6 +23,9 @@ public class User {
 
     private Long gmtModified;
 
-
+    /**
+     * 头像
+     */
+    private String avatarUrl;
 
 }
